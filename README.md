@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 💡 I love innovation and new technologies
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - 🚀 One day I will see humans on Mars!
 - ⚡ Fun fact: I love to draw
 
