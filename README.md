@@ -2,11 +2,10 @@
 
 ## I'm a php full stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />! <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
 - 👨🏻‍💻 Developer with more then 7 years experience
-- 🔭 I’m currently working on a [Uilia E-commerce App](https://www.uilia.com.br) 🌱!
 - 🌱 I’m currently learning everything 🤣
 - 💡 I love innovation and new technologies
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - 🚀 One day I will see humans on Mars!
 - ⚡ Fun fact: I love to draw
 
